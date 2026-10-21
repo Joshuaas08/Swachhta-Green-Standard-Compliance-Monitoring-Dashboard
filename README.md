@@ -1,3 +1,4 @@
+HEAD
 # Swachhta & Green Standard Compliance Monitoring Dashboard (MERN)
 
 A production-ready full-stack MERN (MongoDB, Express.js, React, Node.js) platform for auditing, scoring, and maintaining institutional cleanliness and green standards compliance.
@@ -108,3 +109,6 @@ fsd-project/
 │   └── vite.config.js
 └── package.json
 ```
+
+# Swachhta-Green-Standard-Compliance-Monitoring-Dashboard
+ origin/main
