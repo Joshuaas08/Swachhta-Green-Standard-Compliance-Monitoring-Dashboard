@@ -1,0 +1,24 @@
+{
+  "name": "swachhta-green-compliance-platform",
+  "version": "1.0.0",
+  "description": "Swachhta & Green Standard Compliance Monitoring Dashboard (MERN)",
+  "scripts": {
+    "backend": "cd backend && npm start",
+    "backend:dev": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "frontend:build": "cd frontend && npm run build",
+    "seed": "cd backend && npm run seed",
+    "test": "cd backend && npm test"
+  },
+  "keywords": [
+    "swachh-bharat",
+    "green-building",
+    "compliance",
+    "mern",
+    "react",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC"
+}
